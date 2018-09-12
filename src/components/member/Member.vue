@@ -77,7 +77,7 @@
                         </form>
                         <div class="wechat_box">
                             <div>微信登录</div>
-                            <img src="https://open.weixin.qq.com/connect/qrcode/061v6zxXCTa-3aXA" alt="">
+                            <img src="../../assets/img/WeChat.jpg" alt="">
                             <div>请使用微信扫描二维码登录</div>
                             <div>“小蜜蜂蛋糕”</div>
                         </div>
