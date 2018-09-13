@@ -85,6 +85,8 @@
                 </div>
             </div>
         </div>
+
+
     </div>
 </template>
 
@@ -103,7 +105,7 @@
         },
         components: {
             HeaderMember,
-            VerificationCode
+            VerificationCode,
         },
         mounted() {
             this.identifyCode = "";

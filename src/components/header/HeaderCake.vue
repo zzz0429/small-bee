@@ -8,7 +8,7 @@
             </div>
             <div class="nav">
                 <a href="#/home">首页</a>
-                <a href="#/cake/classify/all" class="cake">蛋糕</a>
+                <a href="#/cake/all/all/all" class="cake">蛋糕</a>
                 <a href="#/food">精选食材</a>
                 <a href="#/activity">最新活动</a>
                 <a href="#/company">企业专区</a>
@@ -184,7 +184,7 @@
     }
 
     .nav {
-        width: 562px;
+        width: 585px;
         height: 100%;
         line-height: 70px;
     }

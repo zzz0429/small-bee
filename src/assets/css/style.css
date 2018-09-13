@@ -1,5 +1,6 @@
 body,html{
     margin: 0;
+    letter-spacing: 1.5px;
 }
 .box{
     width: 1162px;

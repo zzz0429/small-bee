@@ -116,7 +116,7 @@
 
 <script>
     import HeaderHome from '../header/HeaderHome'
-    import Carousel from '../carousel/Carousel'
+    import Carousel from '../carousel/Carousel2'
     export default {
         data() {
             return {
@@ -203,7 +203,7 @@
         },
         components: {
             HeaderHome,
-            Carousel
+            Carousel,
         },
         methods: {
             img_largen(e) {
@@ -234,7 +234,7 @@
 
 <style scoped>
     .box {
-        margin-top: 20px;
+        margin-top: -160px;
     }
 
     .recommend,
