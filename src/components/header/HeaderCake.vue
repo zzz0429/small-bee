@@ -401,7 +401,7 @@
     }
 
     .unfold {
-        width: 124px;
+        width: 130px;
         height: 41px;
         background-color: #eae6e3;
         display: none;
